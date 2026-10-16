@@ -1,0 +1,36 @@
+{
+  "name": "checkout-uz",
+  "version": "1.0.0",
+  "description": "Checkout.uz payment gateway Node.js SDK (API v1 + v2)",
+  "main": "src/index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "checkout.uz",
+    "payment",
+    "payment-gateway",
+    "uzbekistan",
+    "payme",
+    "click"
+  ],
+  "author": {
+    "name": "Hasanov Otabek",
+    "email": "otabek@hasanov.uz",
+    "url": "https://t.me/stoyishi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otabek-hasanov/checkout.uz-nodejs.git"
+  },
+  "homepage": "https://checkout.uz",
+  "bugs": {
+    "url": "https://github.com/otabek-hasanov/checkout.uz-nodejs/issues"
+  }
+}
